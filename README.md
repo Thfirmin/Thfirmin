@@ -42,13 +42,13 @@ Also i love basketball, guitar/piano, drawn and animes.
 <div align="center">
 
 [![Libft](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/libfte.png)](https://github.com/Thfirmin/Libft.git)
-[![ftprintf](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/ft_printfe.png)](#)
-[![GNL](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/get_next_linem.png)](#)
+[![ftprintf](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/ft_printfe.png)](https://github.com/Thfirmin/ft_printf.git)
+[![GNL](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/get_next_linem.png)](https://github.com/Thfirmin/get_next_line.git)
 [![B2BR](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/born2beroote.png)](#)
-[![Minitalk](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/minitalkm.png)](#)
-[![PushSwap](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/push_swapm.png)](#)
-[![FdF](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/fdfm.png)](#)
-[![philosophers](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/philosophersn.png)](#)
+[![Minitalk](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/minitalkm.png)](https://github.com/Thfirmin/Minitalk.git)
+[![PushSwap](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/push_swapm.png)](https://github.com/Thfirmin/Push_Swap.git)
+[![FdF](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/fdfm.png)](https://github.com/Thfirmin/FdF.git)
+[![philosophers](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/philosophersn.png)](https://github.com/Thfirmin/Philosophers.git)
 
 </div>
 
