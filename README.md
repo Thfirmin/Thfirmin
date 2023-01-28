@@ -50,7 +50,7 @@ Also i love basketball, guitar/piano, drawn and animes.
 [![FdF](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/fdfm.png)](#)
 [![philosophers](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/philosophersn.png)](#)
 
-<\div>
+</div>
 
 <!---
 Thfirmin/Thfirmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
