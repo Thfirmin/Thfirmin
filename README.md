@@ -39,6 +39,15 @@ Also i love basketball, guitar/piano, drawn and animes.
 
 ## 42|Rio Journey
 
+[![thfirmin's 42 stats](https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
+### Projects status
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2582226" alt="thfirmin's 42 Libft Score" /></a>
+
+
+*** 
+
 <div align="center">
 
 [![Basecamp](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/phase_onee.png)](https://github.com/Thfirmin/Basecamp_42Rio.git)
