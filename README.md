@@ -41,7 +41,7 @@ Also i love basketball, guitar/piano, drawn and animes.
 
 <div align="center">
 
-[![Libft](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/libfte.png)](#)
+[![Libft](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/libfte.png)](https://github.com/Thfirmin/Libft.git)
 [![ftprintf](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/ft_printfe.png)](#)
 [![GNL](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/get_next_linem.png)](#)
 [![B2BR](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/born2beroote.png)](#)
