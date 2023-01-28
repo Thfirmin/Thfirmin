@@ -43,7 +43,7 @@ Also i love basketball, guitar/piano, drawn and animes.
 
 ### Projects status
 
-<div display="inline">
+<div dlign="center"; isplay="inline">
 	<h3>Libft</h3>
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2582226" alt="thfirmin's 42 Libft Score" /></a>
 </div>
