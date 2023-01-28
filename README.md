@@ -41,54 +41,19 @@ Also i love basketball, guitar/piano, drawn and animes.
 
 [![thfirmin's 42 stats](https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
-### Projects status
-
-<div dlign="center">
-	<h3>
-		Libft  
-		<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2582226" alt="thfirmin's 42 Libft Score" /></a>
-	</h3>
-	<h3>
-		ft_printf  
-		<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2635627" alt="thfirmin's 42 ft_printf Score" /></a>
-	</h3>
-	<h3>
-		get_next_line  
-		<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2633852" alt="thfirmin's 42 get_next_line Score" /></a>
-	</h3>
-	<h3>
-		Born2BeRoot  
-		<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2635629" alt="thfirmin's 42 Born2beroot Score" /></a>
-	</h3>
-	<h3>
-		Cursus Eu Aceito Rio  
-		<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2760913" alt="thfirmin's 42 Cursus Eu Aceito Rio Score" /></a>
-	</h3>
-	<h3>
-		Minitalk  
-		<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2734934" alt="thfirmin's 42 minitalk Score" /></a>
-	</h3>
-	<h3>
-		Push_Swap  
-		<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2846654" alt="thfirmin's 42 push_swap Score" /></a>
-	</h3>
-	<h3>
-		FdF
-		<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2741574" alt="thfirmin's 42 FdF Score" /></a>
-	</h3>
-	<h3>
-		Exam Rank 02
-		<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2748857" alt="thfirmin's 42 Exam Rank 02 Score" /></a>
-	</h3>
-	<h3>
-		Philosophers
-		<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2941289" alt="thfirmin's 42 Philosophers Score" /></a>
-	</h3>
-	<h3>
-		Exam Rank 03
-		<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2941288" alt="thfirmin's 42 Exam Rank 03 Score" /></a>
-	</h3>
-</div>
+| Project Name         | Status |
+|:--------------------:|:------:|
+| Libft                | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2582226" alt="thfirmin's 42 Libft Score" /></a> |
+| ft_printf            | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2635627" alt="thfirmin's 42 ft_printf Score" /></a> |
+| get_next_line        | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2633852" alt="thfirmin's 42 get_next_line Score" /></a> |
+| Born2BeRoot          | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2635629" alt="thfirmin's 42 Born2beroot Score" /></a> |
+| Cursos Eu Aceito Rio | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2760913" alt="thfirmin's 42 Cursus Eu Aceito Rio Score" /></a> |
+| Minitalk             | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2734934" alt="thfirmin's 42 minitalk Score" /></a> |
+| Push_Swap            | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2846654" alt="thfirmin's 42 push_swap Score" /></a> |
+| FdF                  | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2741574" alt="thfirmin's 42 FdF Score" /></a> |
+| Exam Rank 02         | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2748857" alt="thfirmin's 42 Exam Rank 02 Score" /></a> |
+| Philosophers         | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2941289" alt="thfirmin's 42 Philosophers Score" /></a> |
+| Exam Rank 03         | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2941288" alt="thfirmin's 42 Exam Rank 03 Score" /></a> |
 
 *** 
 
