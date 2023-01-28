@@ -37,7 +37,7 @@ Also i love basketball, guitar/piano, drawn and animes.
 
 ***
 
-## 42|Rio Journey
+## 42|Journey
 
 [![thfirmin's 42 stats](https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
@@ -46,6 +46,7 @@ Also i love basketball, guitar/piano, drawn and animes.
 <div align="center">
 	<h3>Libft</h3>
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2582226" alt="thfirmin's 42 Libft Score" /></a>
+</div>
 	<h3>ft_printf</h3>
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2635627" alt="thfirmin's 42 ft_printf Score" /></a>
 	<h3>get_next_line</h3>
@@ -66,7 +67,6 @@ Also i love basketball, guitar/piano, drawn and animes.
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2941289" alt="thfirmin's 42 Philosophers Score" /></a>
 	<h3>Exam Rank 03</h3>
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2941288" alt="thfirmin's 42 Exam Rank 03 Score" /></a>
-</div>
 
 *** 
 
