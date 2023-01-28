@@ -23,12 +23,12 @@ Also i love basketball, guitar/piano, drawn and animes.
 ## 📫 How to reach me ...
 
 - `thinotsukimichi+contact@gmail.com` for personal and relaxed contact or a basketball game invitation.
-- `thfirmin.dsantos+contact@gmail.com` for professional   
+- `thfirmin.dsantos+contact@gmail.com` for professional stuffs.   
 - discord: `ThinoS#9795` `thfirmin#9094`
 - [linktree](https://linktr.ee/thfirmin)
 - [Replit](https://replit.com/@Thfirmin)
 - [Facebook](https://www.facebook.com/thiago.firmino.965/)
-- [Linkdein](https://www.linkedin.com/in/thfirmin)
+- [Linkedin](https://www.linkedin.com/in/thfirmin)
 - [Instagram](https://www.instagram.com/thfirmin/)
 
 
