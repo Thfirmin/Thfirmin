@@ -69,7 +69,7 @@ Also i love basketball, guitar/piano, drawn and animes.
 [![Minitalk](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/minitalkm.png)](https://github.com/Thfirmin/Minitalk.git)
 [![PushSwap](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/push_swapm.png)](https://github.com/Thfirmin/Push_Swap.git)
 [![FdF](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/fdfm.png)](https://github.com/Thfirmin/FdF.git)
-[![philosophers](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/philosophersn.png)](https://github.com/Thfirmin/Philosophers.git)
+[![philosophers](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/philosopherse.png)](https://github.com/Thfirmin/Philosophers.git)
 
 </div>
 
