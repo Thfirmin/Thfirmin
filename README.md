@@ -1,4 +1,4 @@
-# Welcome to Thfirmin profile
+#  Welcome to Thfirmin profile
 
 👋 Hi, I’m Thiago Firmino dos Santos (@Thfirmin). a Brazilian man, 21yo and future _**Human Coder**_.
 
@@ -8,19 +8,31 @@ Also i love basketball, guitar/piano, drawn and animes.
 
 ***
 
-## Currently learning
+## Profile
+
+### 👾 Hard Skills
 
 1. Tech
-	* Shell/Bash
+	* Shell/Bash/Zsh
 	* C
 	* Network/Web
-	* Gitflow methods
+	* Git Workflow methods
 2. Languages
 	* English (Beginner)
 	* Spanish (Intermediary)
 	* Japanese (Beginner)
 
-💞️ I’m looking to find and collaborate on projects with the many peoples who want a new incredible dares.
+### 👽 Soft Skills
+
+- Private
+	+ Analyzing, hypothesizing, and testing is for me a rest, not work.
+	+ Basketball, anime and coffee is a prerequisite for a good weekend.
+- Social
+	+ I am shy and have poor human communication skills, but i communicate well with the machine.
+- Work
+	+ I try to find problems and solve them well, but consequently time is not my best friend :p.
+
+> 💞️ I’m looking to find and collaborate on projects with the many peoples who want a new incredible dares.
 
 ***
 
@@ -37,9 +49,9 @@ Also i love basketball, guitar/piano, drawn and animes.
 
 ***
 
-## 42 | Journey
-
 <div align="center">
+	
+## 42 | Journey
 
 [![thfirmin's 42 stats](https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/stats?cursusId=21&coalitionId=343)](https://github.com/JaeSeoKim/badge42)
 
@@ -58,13 +70,9 @@ Also i love basketball, guitar/piano, drawn and animes.
 | Exam Rank 03         | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2941288" alt="thfirmin's 42 Exam Rank 03 Score" /></a> |
 | Minishell            | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7r5zt3300060gjfnil6mwa1/project/2994769" alt="thfirmin's 42 minishell Score" /></a> | 
 
-</div>
-
 *** 
 
 ## 42 | Badges
-
-<div align="center">
 
 [![Basecamp](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/phase_onee.png)](https://github.com/Thfirmin/Basecamp_42Rio.git)
 [![Libft](https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/libfte.png)](https://github.com/Thfirmin/Libft.git)
