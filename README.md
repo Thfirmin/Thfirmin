@@ -4,7 +4,9 @@
 
 A Software engineer student at École [42|Rio](https://42.rio/) ([linktree](https://linktr.ee/42Rio)) campus in Brazil(🇧🇷).   
 Interested in Back-end/full-satck, AI, Web, CyberSec and systems scripts.   
-Also i love basketball, guitar/piano, drawn and animes.
+I also love basketball, guitar/piano, drawn and animes.
+
+
 
 ***
 
@@ -27,12 +29,10 @@ Also i love basketball, guitar/piano, drawn and animes.
 - Private
 	+ Analyzing, hypothesizing, and testing is for me a rest, not work.
 	+ Basketball, anime and coffee is a prerequisite for a good weekend.
-- Social
-	+ I am shy and have poor human communication skills, but i communicate well with the machine.
 - Work
 	+ I try to find problems and solve them well, but consequently time is not my best friend :p.
 
-> 💞️ I’m looking to find and collaborate on projects with the many peoples who want a new incredible dares.
+> 💞️ I’m looking to find andcollaborate on projects with the many peoples who want new incredible dares.
 
 ***
 
