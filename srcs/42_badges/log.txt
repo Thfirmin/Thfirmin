@@ -1,0 +1,11 @@
+libft|ft_printf|get_next_line|born2beroot|pipex|minitalk|push_swap|so_long|fract-ol|fdf|philosophers|minishell|minirt|cub3d|netpractice|cpp|inception|webserv|ft_containers|ft_irc|ft_transcendence
+
+entrepreneur
+evaluation
+events
+phase_one
+phase_three
+phase_two
+survey
+volunteer
+voxotron
